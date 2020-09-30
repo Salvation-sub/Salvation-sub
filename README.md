@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello everyone 👋
 
 <!--
 **Salvation-sub/Salvation-sub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Salvation-sub&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salvation-sub&layout=compact)](https://github.com/Salvation-sub/github-readme-stats)
