@@ -1,7 +1,7 @@
 # Hello everyone 👋
 
 
-🌱 I’m currently learning React Native
+🌱 I’m currently learning& React Native
 
 <!--
 **Salvation-sub/Salvation-sub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
