@@ -1,7 +1,8 @@
 # Hello everyone 👋
 
 
-🌱 I’m currently learning Node.js & React Native 
+🌱 I’m currently learning Node.js & React Native
+ 
 🔭 I’m currently working on Property technology app using React Native
 
 <!--
