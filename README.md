@@ -2,7 +2,7 @@
 
 
 🌱 I’m currently learning Node.js & React Native
- s
+ 
 🔭 I’m currently working on Property technology app using React Native
 
 <!--
