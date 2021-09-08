@@ -4,7 +4,7 @@
 🌱 I’m currently learning Node.js & React Native
  
 🔭 I’m currently working on Property technology app using React Native
-ㅇ
+
 <!--
 **Salvation-sub/Salvation-sub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
