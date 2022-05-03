@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ![Markdown](https://img.shields.io/badge/-Markdown-161616?style=flat-square&logo=markdown)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-161616?style=flat-square&logo=firebase)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-161616?style=flat-square&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-161616?style=flat-square&logo=sqlite)&nbsp;
+
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Salvation-sub&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salvation-sub&layout=compact)](https://github.com/Salvation-sub/github-readme-stats)
