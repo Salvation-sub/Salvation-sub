@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 ![Typescript](https://img.shields.io/badge/-Typescript-161616?style=flat-square&logo=typescript)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next-161616?style=flat-square&logo=next.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-161616?style=flat-square&logo=react)&nbsp;
+![ReactNative](https://img.shields.io/badge/-React-161616?style=flat-square&logo=reactnative)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-161616?style=flat-square&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-161616?style=flat-square&logo=CSS3&logoColor=1572B6)&nbsp;
 ![SASS](https://img.shields.io/badge/-SASS-161616?style=flat-square&logo=SASS)&nbsp;
