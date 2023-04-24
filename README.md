@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Salvation-sub&show_icons=true&theme=shades-of-purple)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyman19940214)](https://solved.ac/kyman19940214/)
+
 
 
 
