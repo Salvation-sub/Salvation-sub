@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Salvation-sub&show_icons=true&theme=shades-of-purple)
-
+<!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Salvation-sub&show_icons=true&theme=shades-of-purple) -->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dhk0214)](https://solved.ac/dhk0214/)
 
 
 
