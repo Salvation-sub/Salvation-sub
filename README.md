@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 <!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Salvation-sub&show_icons=true&theme=shades-of-purple) -->
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dhk0214)](https://solved.ac/dhk0214/) -->
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Salvation-sub?theme=light,unicorn&ext=activity)](https://leetcode.com/Salvation-sub)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Salvation-sub?theme=light,unicorn)](https://leetcode.com/Salvation-sub)
 
 
 
