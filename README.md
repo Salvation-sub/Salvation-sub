@@ -1,6 +1,9 @@
 # Hello everyone 👋
 
 
+![Visitor Count](https://profile-counter.glitch.me/Salvation-sub/count.svg)
+
+
 
 <!--
 **Salvation-sub/Salvation-sub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -50,7 +53,4 @@ Here are some ideas to get you started:
 </a>
 
 
-![Profile views](https://gpvc.arturio.dev/Salvation-sub)
-
-![Visitor Count](https://profile-counter.glitch.me/Salvation-sub/count.svg)
 
