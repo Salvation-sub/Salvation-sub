@@ -50,6 +50,7 @@ Here are some ideas to get you started:
 </a>
 
 
+![Profile views](https://gpvc.arturio.dev/Salvation-sub)
 
 ![Visitor Count](https://profile-counter.glitch.me/Salvation-sub/count.svg)
 
