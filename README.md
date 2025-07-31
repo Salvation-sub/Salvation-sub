@@ -1,8 +1,6 @@
 # Hello everyone 👋
 
 
-![Visitor Count](https://profile-counter.glitch.me/Salvation-sub/count.svg)
-
 
 
 <!--
